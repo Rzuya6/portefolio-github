@@ -13,7 +13,7 @@
   </header>
 
   <section id="about">
-    <h2>À propos</h2>
+    <h2>À propos de moi</h2>
     <p>
       Je suis actuellement étudiant en BTS, titulaire d’un baccalauréat STI2D (Sciences et Technologies de l’Industrie et du Développement Durable). Passionné par les technologies et l’innovation, j’ai acquis des compétences solides en informatique, programmation, gestion de projet, ainsi qu’en électronique et automatisme. Mon parcours m’a permis de développer une bonne capacité d’analyse, un esprit d’équipe, et une grande rigueur dans la réalisation de mes travaux. Curieux et créatif, je suis toujours prêt à relever de nouveaux défis et à apprendre de nouvelles compétences pour évoluer dans le domaine industriel et technologique.
     </p>
