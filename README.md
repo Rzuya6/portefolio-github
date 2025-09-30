@@ -9,7 +9,7 @@
 <body>
   <header>
     <h1>LE PORTEFOLIO DE RIYAD KHEZZARI</h1>
-    <p>FrontEnd Developper & Web Developper</p>
+    <p>FrontEnd Developper & Web Developper aspirant</p>
   </header>
 
   <section id="about">
