@@ -32,7 +32,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email : <a href="mailto:riyad.kh06@gmail.com">riyad.kh06@gmail.com</a></p>
-    <p>LinkedIn : <a href="https://linkedin.com/in/riyad-khezzari target="_blank">riyad-khezzari</a></p>
+    <p>LinkedIn : <a href="https://www.linkedin.com/in/riyad-khezzari-126294382/ target="_blank">riyad-khezzari</a></p>
   </section>
 
   <footer>
