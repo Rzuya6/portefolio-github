@@ -23,7 +23,7 @@
     <h2>Compétences</h2>
     <ul>
       <li>CSS</li>
-      <li>Js/git/Php</li>
+      <li>Js</li>
       <li>HTML</li>
       <li>Azure DevOps</li>
     </ul>
